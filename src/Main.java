@@ -26,7 +26,7 @@ public class Main {
                 res = value1 / value2;
                 break;
         }
-        System.out.println(res);
+        System.out.println(value1 + oper + value2 + " = " + res);
     }
 }
 
